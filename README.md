@@ -1,4 +1,3 @@
 # hello-world
-Bla Bla test
 
-I'm just testing this
+Ok, now I'm just testing this on the desktop
